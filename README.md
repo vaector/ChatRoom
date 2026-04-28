@@ -25,6 +25,11 @@ A real-time multi-client chatroom built using Python, featuring a GUI client and
 ---
 
 ## Project Structure
+ChatRoom/
+│
+├── server.py # Handles connections and message broadcasting
+├── client.py # GUI client (Tkinter-based)
+└── README.md # Project documentation
 
 ---
 
